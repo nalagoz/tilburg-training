@@ -8,7 +8,7 @@ This tutorial provides an introduction to a collection of tools designed to incr
 
 This will be an interactive tutorial, so please prepare your laptop with the appropriate software and settings.  Things to do prior to the start of the tutorial include:
 
-- Create a free github account
+- Create a free hey account
 - Install R and Rstudio
 - Install Git
 
